@@ -1,31 +1,47 @@
 [Name of the city with country, region or province optional]
-
+    Singapore(Republic Of Singapore), maritime Southeast Asia. 
+--------------------------------------------------------------------------------------------------
 [List with four links to another pages of the project. 
 One page should deal with the history and legends of the city. 
 Another page should deal with the toponomy of the city name.
 Another page should deal with the notable people born in the city.
 Another page should deal with the monuments of the city.]
-
+--------------------------------------------------------------------------------------------------
 [Longest heading indicating that the page is going to deal with the main monuments of the city] 
+    The monuments at Sigapore are proper and functional buildings that appeal very much to turists.
 [Brief paragraph introducing the information about the monuments of the city]
-
+    I´ll introduce 9 monuments and famous buildings from Singapore, being the most important
+    the Merlion estatues that are part of the art and popular culture.
+--------------------------------------------------------------------------------------------------
 [Paragraph with the name of the author of the information]
-
+    I´m the main author of the page, but the information is mostly from wikipedia.
+--------------------------------------------------------------------------------------------------
 [Paragraph with the information publication or update date]
-
+Last update: xx/xx/xxxx
+--------------------------------------------------------------------------------------------------
 [Heading with the name of one of the monuments of the city]
-
+The Merlion is the official mascot of Singapore, it´s despicted as a mythical creature with of a lion and the body of a fish. Its very simbolic to Singapore and their people.
+--------------------------------------------------------------------------------------------------
 [Paragraph with information about the monument]
-
+This was designed by Alec Fraser-Brunner and the original location was at Singapore River in Merlion Park. Then of that it was recolocated 120 away from the original place, also inside the park. During the maintenance of the original statue the visitors made a lot of illustrations, the Merlion was still there to see, but it was covered at the sides simulating a shower and was also accompanied by a speech bubble that said: "EXCUSE ME while I take a shower..." On 2009 the Merlion in the Merlion Park was struck by a lightning, after that an image of the fragments of the head on the ground was published.
+--------------------------------------------------------------------------------------------------
 [Image of the monument with alternate text for the image]
+images\Merlion.jpg
 [Paragraph with a title for the image]
-
+The same as the heading
+--------------------------------------------------------------------------------------------------
 [Heading with the name of another of the monuments of the city]
-
+Esplanade – Theatres on the Bay (also known as the Esplanade Theatres (Malay: Teater di Persisiran) or simply The Esplanade) is a statutory board under the Ministry of Culture, Community and Youth (MCCY) and a performing arts centre located in the Downtown Core of Singapore near the mouth of the Singapore River. Named after the nearby Esplanade Park, it consists of a concert hall which seats about 1,600 and a theatre with a capacity of about 2,000 for the performing arts.
+--------------------------------------------------------------------------------------------------
 [Paragraph with information about the monument]
-
+The original design, presented to the public in 1994, consisted of unadorned glass cases over the theatres, and initially elicited criticisms from the public, including calling it "two copulating aardvarks". Critics also accused that the design is insensitive to Singapore's location and climate as it would have created a greenhouse in the tropical climate of Singapore, but according to DPA director Vikas Gore some form of shading was always intended, and a cladding of aluminium sunshades was added to the final design. The unique architectural design has been said to have an appearance similar to either a durian (a tropical fruit) or the eyes of a fly. Hence, the building is colloquially known to locals as "the big durians".
+--------------------------------------------------------------------------------------------------
 [Heading about some information related to the last monument]
-
+I have done more than 3
+--------------------------------------------------------------------------------------------------
 [Paragraph with information related to the last monument]
-
+I have done more than 3
+--------------------------------------------------------------------------------------------------
 [Paragraph with copyright information]
+https://en.wikipedia.org/wiki/Singapore and derived.
+--------------------------------------------------------------------------------------------------
